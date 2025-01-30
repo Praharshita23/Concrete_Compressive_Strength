@@ -14,8 +14,8 @@ Actionable Insights: To optimize concrete strength, balancing cement content and
 
 Future Scope: Exploring long-term durability predictions and considering external factors like temperature, humidity, and curing time can further refine concrete mix designs.
 
-COLAB LINK : https://colab.research.google.com/drive/1oRITSES7wLrBS7TwsBwwP9blXOpPfDp2?usp=sharing
+COLAB LINK(DIRECTLY ACCESSIBLE) : https://colab.research.google.com/drive/1oRITSES7wLrBS7TwsBwwP9blXOpPfDp2?usp=sharing
 
-GOOGLE COLAB LINK : https://drive.google.com/file/d/10-xKMcLpD_3l53rNAVlXSnmX8A_YVFw-/view?usp=sharing
+GOOGLE COLAB LINK(DOWNLOAD TO VIEW IT) : https://drive.google.com/file/d/10-xKMcLpD_3l53rNAVlXSnmX8A_YVFw-/view?usp=sharing
 
 PROJECT PRESENTATION LINK: https://drive.google.com/file/d/19bXHolGdQKPw9wpqa97gwmOoFWQgMcc9/view?usp=sharing
