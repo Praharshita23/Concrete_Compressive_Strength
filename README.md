@@ -1,5 +1,3 @@
-UNP_REGRESSION_PROJECT_USING_PYTHON_PREDICTION_OF_CONCRETE_COMPRESSIVE_STRENGTH
-
 Project Objective: Predicting the compressive strength of concrete based on various mix components.
 
 Data: The dataset includes variables like cement, water, blast furnace slag, fly ash, age, and others, which influence concrete's strength.
